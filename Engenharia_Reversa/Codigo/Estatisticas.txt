@@ -1,0 +1,6 @@
+Labels: 4
+Variáveis: 172
+Personagens: 1
+Screens: 25
+Imagens: 1
+Áudios: 0

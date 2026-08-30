@@ -1,0 +1,36 @@
+============================================================
+LABEL: _
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+LABEL: h
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+LABEL: start
+
+Definida em:
+game\script.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+LABEL: title
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+

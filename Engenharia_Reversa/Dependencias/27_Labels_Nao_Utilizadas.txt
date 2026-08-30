@@ -1,0 +1,4 @@
+_ -> game\screens.rpy
+h -> game\screens.rpy
+start -> game\script.rpy
+title -> game\screens.rpy

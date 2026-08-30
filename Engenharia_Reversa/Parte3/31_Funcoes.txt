@@ -1,0 +1,4 @@
+exit_credits_to_main_menu
+small
+start_credits_music
+touch

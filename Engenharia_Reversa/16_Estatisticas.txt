@@ -1,0 +1,11 @@
+Arquivos: 149
+Labels: 4
+Variáveis: 172
+Personagens: 1
+Screens: 25
+Classes: 0
+Funções: 4
+Imagens: 97
+Áudios: 4
+Vídeos: 0
+Fontes: 2

@@ -1,0 +1,10 @@
+Data: 2026-08-02 13:29:28.661597
+
+Projeto: E:\RenPy\Projects\Chronicles VN
+Game: E:\RenPy\Projects\Chronicles VN\game
+
+Arquivos RPY: 6
+Labels: 4
+Screens: 25
+Referências Labels: 0
+Referências Screens: 0

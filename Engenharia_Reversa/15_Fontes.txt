@@ -1,0 +1,2 @@
+game\gui\fonts\credits_regular.ttf
+game\gui\fonts\menu_font.ttf

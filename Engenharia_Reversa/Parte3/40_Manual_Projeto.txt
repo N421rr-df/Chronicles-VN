@@ -1,0 +1,13 @@
+MANUAL AUTOMÁTICO DO PROJETO
+
+Arquivos RPY: 6
+Labels: 4
+Screens: 25
+Classes: 0
+Funções: 4
+Personagens: 1
+Variáveis: 172
+Imagens: 1
+Áudios: 0
+
+Frameworks Detectados:

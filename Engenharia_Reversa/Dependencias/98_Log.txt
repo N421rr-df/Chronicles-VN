@@ -1,0 +1,13 @@
+============================================================
+EXPORTADOR DE DEPENDÊNCIAS
+============================================================
+Projeto: E:\RenPy\Projects\Chronicles VN
+Game: E:\RenPy\Projects\Chronicles VN\game
+Saída: E:\RenPy\NotebookLM\Chronicles VN\Engenharia_Reversa\Dependencias
+Arquivos .rpy encontrados: 6
+Labels encontradas: 4
+Screens encontradas: 25
+Arquivo salvo: 17_Referencias_Labels.txt
+Arquivo salvo: 18_Referencias_Screens.txt
+Arquivo salvo: 27_Labels_Nao_Utilizadas.txt
+Arquivo salvo: 99_Diagnostico.txt

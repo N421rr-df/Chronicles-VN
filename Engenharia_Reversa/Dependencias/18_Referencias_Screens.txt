@@ -1,0 +1,225 @@
+============================================================
+SCREEN: about
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: bubble
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: choice
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: confirm
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: credits_screen
+
+Definida em:
+game\credits.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: credits_section
+
+Definida em:
+game\credits.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: file_slots
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: game_menu
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: gamepad_help
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: help
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: history
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: input
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: keyboard_help
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: load
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: main_menu
+
+Definida em:
+game\main_menu_custom.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: mouse_help
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: navigation
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: notify
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: nvl
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: nvl_dialogue
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: preferences
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: quick_menu
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: save
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: say
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+
+============================================================
+SCREEN: skip_indicator
+
+Definida em:
+game\screens.rpy
+
+Utilizada por:
+[SEM REFERÊNCIAS]
+

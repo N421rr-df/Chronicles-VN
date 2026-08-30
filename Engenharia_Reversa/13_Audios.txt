@@ -1,0 +1,4 @@
+game\audio\ui_click.mp3
+game\audio\ui_hover.mp3
+game\audio\music\credits_theme.mp3
+game\audio\music\main_menu_theme.mp3
